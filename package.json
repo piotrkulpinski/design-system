@@ -1,7 +1,7 @@
 {
   "name": "@curiousleaf/design",
   "description": "A React component design system",
-  "version": "0.13.26",
+  "version": "0.13.27",
   "license": "MIT",
   "type": "module",
   "author": {
@@ -13,7 +13,9 @@
     "type": "git",
     "url": "https://github.com/piotrkulpinski/design-system.git"
   },
-  "files": ["dist"],
+  "files": [
+    "dist"
+  ],
   "main": "./dist/index.umd.cjs",
   "module": "./dist/index.js",
   "exports": {
